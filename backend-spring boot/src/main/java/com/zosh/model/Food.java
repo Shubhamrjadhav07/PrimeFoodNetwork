@@ -46,7 +46,4 @@ public class Food {
 
     @Temporal(TemporalType.TIMESTAMP)
     private Date creationDate;
-
-
-    
 }
